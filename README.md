@@ -1,6 +1,6 @@
 # 📊 Waste Material Classification and Carbon Footprint Estimation Project
 
-📧 Contact: ogun.atalay33@gmail.com
+📧 Contact: daghalilrodi1@gmail.com
 
 ## 🎯 Project Objective
 This project aims to classify waste materials using image data and analyze the environmental impact (carbon footprint) of these materials. The implementation involves both machine learning techniques (Random Forest, Decision Tree, SVM) and deep learning models (MobileNet and custom CNN layers).
